@@ -1,0 +1,3 @@
+[submodule "api"]
+	path = api
+	url = git@github.com:enkei0107/microservice-proto.git
